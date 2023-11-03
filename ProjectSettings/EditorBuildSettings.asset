@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/InstructorTask.unity
+    guid: 6a21a6abd8371d245b5df8d3c72b895b
   m_configObjects: {}
